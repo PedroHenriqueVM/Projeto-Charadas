@@ -55,7 +55,7 @@ O objetivo do projeto é demonstrar conceitos fundamentais do desenvolvimento we
 1. Clone o repositório:
 
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/PedroHenriqueVM/Projeto-Charadas.git
 ```
 
 2. Abra a pasta do projeto.
@@ -65,7 +65,7 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 Ou acesse a versão online:
 
 🔗 **Link do projeto:**
-*(adicione aqui o link da Vercel quando publicar)*
+*https://projeto-charadas-kappa.vercel.app/*
 
 ---
 
